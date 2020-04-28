@@ -1,0 +1,3 @@
+%{
+  "huffman": {:hex, :huffman, "1.2.0", "47996b9e152a90c7bcd82f032458fdb94ad6297e2d3fd66a66b6f889d495af34", [:mix], [], "hexpm"},
+}
